@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Api Call</string>
+    <string name="userid">userId:%1$s</string>
+</resources>
